@@ -1,8 +1,8 @@
 # Mode-Network
 
-> Başlangıçta köprüyü kullanalım ve biraz Mode ağında test tokenımız olsun.
+> Başlangıçta `köprüyü` kullanalım ve biraz Mode ağında test tokenımız olsun.
 
-> [Buradan](https://bridge.mode.network/) kullanabilirsiniz köprüyü. Ben Mode Network'u çok sevdim çok.
+> [Buradan](https://bridge.mode.network/) kullanabilirsiniz köprüyü. Ben Mode Network'u `çok sevdim çok.`
 
 ```
 # RPC bilgileri:
@@ -12,7 +12,7 @@ https://sepolia.mode.network
 mETH
 ```
 
-> Öncelikle [Buradan](https://thirdweb.com/dashboard/settings/api-keys) create API keys diyip bilgilerimizi kaydediyoruz.
+> Öncelikle [Buradan](https://thirdweb.com/dashboard/settings/api-keys) `create API keys` diyip bilgilerimizi kaydediyoruz.
 
 > Sonra buradan gerekli komutlarımızı girelim:
 
@@ -43,7 +43,7 @@ npx thirdweb deploy
 > Ben anlatırsam her şeyi anlamı kalmaz kurcalayın, token supply arttırın, airdrop yapın trnasfer yapın.
 ```
 
-> Yaptığınız işlemleri de bu repo'ya klasor olarak PR yapın öğrenin iyice, hatta bana da token atın.
+> Yaptığınız işlemleri de bu repo'ya klasor olarak `PR` yapın öğrenin iyice, hatta bana da token atın.
 
 > Adresim: `0x941bCb9Fda08f085ebCf36E4e11e5cf245Db00C6`
 
