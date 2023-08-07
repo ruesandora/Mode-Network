@@ -1,4 +1,4 @@
-# Mode-Network
+<h1 align="center"> Mode Network </h1>
 
 > Başlangıçta `köprüyü` kullanalım ve biraz Mode ağında test tokenımız olsun.
 
