@@ -1,5 +1,17 @@
 # Mode-Network
 
+> Başlangıçta köprüyü kullanalım ve biraz Mode ağında test tokenımız olsun.
+
+> [Buradan](https://bridge.mode.network/) kullanabilirsiniz köprüyü. Ben Mode Network'u çok sevdim çok.
+
+```
+# RPC bilgileri:
+Mode Testnet
+https://sepolia.mode.network
+919
+mETH
+```
+
 > Öncelikle [Buradan](https://thirdweb.com/dashboard/settings/api-keys) create API keys diyip bilgilerimizi kaydediyoruz.
 
 > Sonra buradan gerekli komutlarımızı girelim:
@@ -24,18 +36,16 @@ npx thirdweb create
 
 ```
 npx thirdweb deploy
-# bu komut sonrası çıktıya API keylerimizden secrey key'i girelim.
-```
-
-> Akabinde bize bir link verecek onu google'da açalım. Ve cüzdan bağladıktan sonra deploy now diyelim.
-
+> bu komut sonrası çıktıya API keylerimizden secrey key'i girelim.
+> Akabinde bize çıktı olarak bir link verecek onu google'da açalım. Ve cüzdan bağladıktan sonra deploy now diyelim.
 > Token ismi, token kısaltması ve cüzdan adresimizi girelim ve deploy diyelim Mode ağında.
-
 > Artk tokeniniz var, bu token ile thridweb'de bir çok şey yapabilirsiniz bundan sonrasını size bırakıyorum.
-
 > Ben anlatırsam her şeyi anlamı kalmaz kurcalayın, token supply arttırın, airdrop yapın trnasfer yapın.
+```
 
 > Yaptığınız işlemleri de bu repo'ya klasor olarak PR yapın öğrenin iyice, hatta bana da token atın.
 
 > Adresim: `0x941bCb9Fda08f085ebCf36E4e11e5cf245Db00C6`
+
+> ayrıca OG rolü almak için galxe falan var ama ben onları bılmıyorum siz bakarsınız. Bu konuda rehber yazarsanız bu repoya PR atarsınız.
 
