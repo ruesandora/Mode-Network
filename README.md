@@ -17,8 +17,11 @@ mETH
 > Sonra buradan gerekli komutlarımızı girelim:
 
 ```
+sudo apt update
+sudo apt upgrade
+
 # npm'i indiriyoruz:
-sudo apt install npm
+sudo apt install nodejs
 
 # thirdwebî indiriyoruz:
 npm i -g thirdweb
