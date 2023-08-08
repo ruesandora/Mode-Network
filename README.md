@@ -31,7 +31,7 @@ npx thirdweb create
 # bu komuttan sonra görselde ki değerleri seçebilir veya girebiliriz:
 ```
 
-![image](https://github.com/ruesandora/Mode-Network/assets/101149671/f5d8bcc4-b8cd-42f5-aea2-e2116fcb66b5)
+![image](https://github.com/ruesandora/Mode-Network/assets/101149671/0be295d1-3e9c-428e-81a4-a4203b42df63)
 
 > Artık kendimize ait mode zincirinde token var ben Thridweb'i çok seviyorum neredeyse tüm evm zincirlerinde bunu yapabilirsiniz.
 
