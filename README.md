@@ -52,24 +52,20 @@ npx thirdweb deploy
 
 > ayrıca OG rolü almak için galxe falan var ama ben onları bılmıyorum siz bakarsınız. Bu konuda rehber yazarsanız bu repoya PR atarsınız.
 
-# unexpected token hatası alanlar için muhtemelen paketleriniz güncel değil node kaldırıp nvm ile güncel halini indiebilirsiniz.
 
-# kaldırmak için:
+<h1 align="center"> unexpected token hatası alanlar için </h1>
 
 ```
+# kaldıralım
 sudo apt remove nodejs npm
-```
-# Yeniden yüklemek için:
-```
+
+# Yeniden yükleyelim:
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
-```
-```
+
 source ~/.bashrc
-```
-```
 nvm install node
 ```
-daha sonra thirdwebi indiriyoruz adımından devam edebilirsiniz.
 
+> daha sonra thirdwebi indiriyoruz adımından devam edebilirsiniz.
 
-Ayrıca deploy hatası alanlar için cd ile oluşturduğunuz proje ismindeki klasöre girip deploy komutunu çalıştırın
+> Ayrıca deploy hatası alanlar için cd ile oluşturduğunuz proje ismindeki klasöre girip deploy komutunu çalıştırın
