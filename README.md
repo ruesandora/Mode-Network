@@ -39,7 +39,7 @@ npx thirdweb create
 
 ```
 npx thirdweb deploy
-> bu komut sonrası çıktıya API keylerimizden secrey key'i girelim.
+> bu komut sonrası çıktıya API keylerimizden secret key'i girelim.
 > Akabinde bize çıktı olarak bir link verecek onu google'da açalım. Ve cüzdan bağladıktan sonra deploy now diyelim.
 > Token ismi, token kısaltması ve cüzdan adresimizi girelim ve deploy diyelim Mode ağında.
 > Artk tokeniniz var, bu token ile thridweb'de bir çok şey yapabilirsiniz bundan sonrasını size bırakıyorum.
