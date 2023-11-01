@@ -41,8 +41,9 @@ npx thirdweb create
 > Artık kendimize ait mode zincirinde token var ben Thirdweb'i çok seviyorum neredeyse tüm evm zincirlerinde bunu yapabilirsiniz.
 
 > Şimdi bu komutu girelim ve kontratımızı deploy edelim.
-
+```
 npx thirdweb deploy --key <thirdwebden aldığınız secret key>
+```
 Bunu yazdığınızda tokeniniz başarılı bir şekilde oluşturulacaktır ve sizi thirdweb sitesine yönlendirecektir.
 
 >Contracts Kısmından Deploy contract diyoruz
