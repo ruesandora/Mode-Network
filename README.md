@@ -12,7 +12,8 @@ https://sepolia.mode.network
 mETH
 ```
 
-> Öncelikle [Buradan](https://thirdweb.com/dashboard/settings/api-keys) `create API keys` diyip bilgilerimizi kaydediyoruz.
+> Öncelikle [Buradan](https://thirdweb.com/dashboard/settings/api-keys) `create API keys` diyip istediğimiz bir isim veriyoruz ve next diyoruz.
+Çıkan ekranda secret keyi kaydediyoruz. Daha sonra lazım olacak.
 
 
 > Sonrasında [Buradan](https://github.com/codespaces)
