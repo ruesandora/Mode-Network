@@ -50,7 +50,8 @@ npx thirdweb deploy
 
 > Adresim: `0x941bCb9Fda08f085ebCf36E4e11e5cf245Db00C6`
 
-> ayrıca OG rolü almak için galxe falan var ama ben onları bılmıyorum siz bakarsınız. Bu konuda galxe linkini bırakıyorum siz inceleyebilirsiniz.
+> Ayrıca OG rolü almak için galxe falan var ama ben onları bılmıyorum siz bakarsınız. Bu konuda galxe linkini bırakıyorum siz inceleyebilirsiniz.
+> 
 > Mode Network Galxe https://galxe.com/mode şuan aktif etkinlik yok yakın zamanda başlar büyük ihtimalle.
 
 
