@@ -13,8 +13,10 @@ mETH
 ```
 
 > Öncelikle [Buradan](https://thirdweb.com/dashboard/settings/api-keys) `create API keys` diyip bilgilerimizi kaydediyoruz.
+> Sonrasında [Buradan](https://github.com/codespaces) "Use This Templete" diyerek terminalin gelmesini bekleyelim.
+![image](https://github.com/AbdullahCoban28/Mode-Network/assets/111288151/9dbf6e75-e012-4922-bc0f-a90410b24834)
 
-> Sonra buradan gerekli komutlarımızı girelim:
+> Terminal geldikten sonra buradan gerekli komutlarımızı girelim:
 
 ```
 sudo apt update
@@ -38,13 +40,26 @@ npx thirdweb create
 > Şimdi bu komutu girelim ve kontratımızı deploy edelim.
 
 ```
-npx thirdweb deploy
-> bu komut sonrası çıktıya API keylerimizden secret key'i girelim.
-> Akabinde bize çıktı olarak bir link verecek onu google'da açalım. Ve cüzdan bağladıktan sonra deploy now diyelim.
-> Token ismi, token kısaltması ve cüzdan adresimizi girelim ve deploy diyelim Mode ağında.
-> Artık tokeniniz var, bu token ile thirdweb'de bir çok şey yapabilirsiniz bundan sonrasını size bırakıyorum.
-> Ben anlatırsam her şeyi anlamı kalmaz kurcalayın, token supply arttırın, airdrop yapın transfer yapın.
-```
+npx thirdweb deploy --key <thirdwebden aldığınız secret key>
+Bunu yazdığınızda tokeniniz başarılı bir şekilde oluşturulacaktır ve sizi thirdweb sitesine yönlendirecektir.
+
+>Contracts Kısmından Deploy contract diyoruz
+![image](https://github.com/AbdullahCoban28/Mode-Network/assets/111288151/f6e62762-1c38-4f8a-af50-13bd0269c0e2)
+
+>Karşımıza yapabileceğimiz bir çok şeyi sunan bir sayfa açılıyor.Ben burada 5.sıradaki yere tıklayarak token oluşturmaya geçtim.
+![image](https://github.com/AbdullahCoban28/Mode-Network/assets/111288151/cff2c59c-3d15-4b3a-bfa9-e0d47b81fcd6)
+
+>Burada aşağıda code olarak eklemeler çıkarmalar yapılabilir fakat ben yapmadım. Deploy Now diyoruz.
+![image](https://github.com/AbdullahCoban28/Mode-Network/assets/111288151/3b7a97a8-d714-4537-a4d3-e8ee808ac903)
+
+> Deploy Now dediğimizde bizden bilgiler isteyecek.Tokenimizin adı sembolü resmi bunları seçtikten sonra en önemli kısım en altta bulunan network chain kısmında 
+MODE NETWORK seçtiğimizden emin olalım ve en baştaki bridge den eth atmış olalım.
+![image](https://github.com/AbdullahCoban28/Mode-Network/assets/111288151/0e30ae9a-db9c-4988-9cb3-4e390ddfd1ca)
+
+>Tokenimiz artık oluştu ve contracts kısmına geldiğimizde sağdaki seçeneklerden tokene tıkladığımızda
+>Burn, airrop,transfer ve mint yapabiliriz. İstediğimiz kadar token mitleyebilir ve transfer edebiliriz.
+
+![image](https://github.com/AbdullahCoban28/Mode-Network/assets/111288151/6964fd05-dcce-4d13-8461-d3de8c064217)
 
 > Yaptığınız işlemleri de bu repo'ya klasör olarak `PR` yapın öğrenin iyice, hatta bana da token atın.
 
