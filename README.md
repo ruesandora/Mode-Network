@@ -50,7 +50,8 @@ npx thirdweb deploy
 
 > Adresim: `0x941bCb9Fda08f085ebCf36E4e11e5cf245Db00C6`
 
-> ayrıca OG rolü almak için galxe falan var ama ben onları bılmıyorum siz bakarsınız. Bu konuda rehber yazarsanız bu repoya PR atarsınız.
+> ayrıca OG rolü almak için galxe falan var ama ben onları bılmıyorum siz bakarsınız. Bu konuda galxe linkini bırakıyorum siz inceleyebilirsiniz.
+> Mode Network Galxe https://galxe.com/mode şuan aktif etkinlik yok yakın zamanda başlar büyük ihtimalle.
 
 
 <h1 align="center"> unexpected token hatası alanlar için </h1>
@@ -60,7 +61,7 @@ npx thirdweb deploy
 sudo apt remove nodejs npm
 
 # Yeniden yükleyelim:
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
 
 source ~/.bashrc
 nvm install node
@@ -68,4 +69,4 @@ nvm install node
 
 > daha sonra thirdwebi indiriyoruz adımından devam edebilirsiniz.
 
-> Ayrıca deploy hatası alanlar için cd ile oluşturduğunuz proje ismindeki klasöre girip deploy komutunu çalıştırın
+> Ayrıca deploy hatası alanlar için cd ile oluşturduğunuz proje ismindeki klasöre girip deploy komutunu çalıştırın.
