@@ -42,7 +42,6 @@ npx thirdweb create
 
 > Şimdi bu komutu girelim ve kontratımızı deploy edelim.
 
-```
 npx thirdweb deploy --key <thirdwebden aldığınız secret key>
 Bunu yazdığınızda tokeniniz başarılı bir şekilde oluşturulacaktır ve sizi thirdweb sitesine yönlendirecektir.
 
@@ -77,10 +76,9 @@ MODE NETWORK seçtiğimizden emin olalım ve en baştaki bridge den eth atmış 
 > 
 > Mode Network Galxe https://galxe.com/mode şuan aktif etkinlik yok yakın zamanda başlar büyük ihtimalle.
 
-
+```
 <h1 align="center"> unexpected token hatası alanlar için </h1>
 
-```
 # kaldıralım
 sudo apt remove nodejs npm
 
