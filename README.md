@@ -12,7 +12,8 @@ https://sepolia.mode.network
 mETH
 ```
 
-> Öncelikle [Buradan](https://thirdweb.com/dashboard/settings/api-keys) `create API keys` diyip bilgilerimizi kaydediyoruz.
+> Öncelikle [Buradan](https://thirdweb.com/dashboard/settings/api-keys) `create API keys` diyip istediğimiz bir isim veriyoruz ve next diyoruz.
+Çıkan ekranda secret keyi kaydediyoruz. Daha sonra lazım olacak.
 
 
 > Sonrasında [Buradan](https://github.com/codespaces)
@@ -41,8 +42,9 @@ npx thirdweb create
 > Artık kendimize ait mode zincirinde token var ben Thirdweb'i çok seviyorum neredeyse tüm evm zincirlerinde bunu yapabilirsiniz.
 
 > Şimdi bu komutu girelim ve kontratımızı deploy edelim.
-
+```
 npx thirdweb deploy --key <thirdwebden aldığınız secret key>
+```
 Bunu yazdığınızda tokeniniz başarılı bir şekilde oluşturulacaktır ve sizi thirdweb sitesine yönlendirecektir.
 
 >Contracts Kısmından Deploy contract diyoruz
